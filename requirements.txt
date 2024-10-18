@@ -1,1 +1,4 @@
-
+torch
+fairseq
+transformers
+spacy
